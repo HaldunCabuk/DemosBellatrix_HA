@@ -101,7 +101,6 @@ public class BaseSteps {
 
         int counter = 0;
 
-
         for (WebElement element : elements) {
 
             if (!element.getText().contains("Proton-M")){
@@ -121,26 +120,21 @@ public class BaseSteps {
 
     }
 
-    public void addProductToCart(String str){
+    public void addCart(String s){
 
-        List<WebElement> elements = driver.findElements(lProductNames);
+       String str = "//a[@aria-label='Add “%s” to your cart']";
+       By locator = By.xpath(String.format(str,s));
 
-        for (WebElement element : elements) {
+       try {
 
-            List<WebElement> buttonAddToCart = driver.findElements(By.xpath("//*[text()='Add to cart']"));
+           WebElement element = driver.findElement(locator);
+           element.click();
 
-                if (buttonAddToCart.isEmpty()) {
+       }catch (Exception e){
+           System.out.println(" The Product OUT OF Stock");
+       }
 
-
-                } else {
-
-                click(element);
-                }
-
-            }
-
-        }
-
+    }
 
 
 

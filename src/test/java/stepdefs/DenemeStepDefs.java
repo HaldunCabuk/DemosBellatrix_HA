@@ -7,6 +7,6 @@ public class DenemeStepDefs extends BaseSteps{
     public void userAddTheProductToTheCart(String text) {
 
         //click(addToCart(text));
-        addProductToCart(text);
+        addCart(text);
     }
 }

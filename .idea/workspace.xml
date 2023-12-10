@@ -5,22 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1cea13cc-c654-4203-9874-470b18404888" name="Changes" comment="DemobellatrixHA">
-      <change afterPath="$PROJECT_DIR$/allure-results/10deae54-6d6c-4d1c-bcb4-cdd60f96e66e-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/16ef6c02-217c-4f52-bda7-f8d41b2a42d3-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/1e6c4a03-c212-4bda-a694-d410e5bbec0c-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/23c11656-3500-4ae4-be1f-0cc46497debb-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/2f4d47b5-b5fb-4a95-be55-82f96af7971a-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/32cc9acc-ad13-47c7-ab70-0af28715687f-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/4f530bc5-fdb5-4fb9-86a4-a09516e94161-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/5daf5f8a-d2df-4b66-b327-1063bc1b1a7b-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/822ba19a-4231-421b-9651-28d30534150e-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/858e6c5e-58b7-40c5-8b40-f670769fb9b7-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/afe48936-7d79-4cb5-8f94-b334b5bea1d7-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/d9c2780c-ee43-473a-93d1-3ba96f9429f0-result.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/stepdefs/BaseSteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepdefs/BaseSteps.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/stepdefs/DenemeStepDefs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepdefs/DenemeStepDefs.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/FeatureDeneme.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/FeatureDeneme.feature" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,10 +48,10 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Haldun35/IdeaProjects/DemosBellatrix_HA/src/test&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Haldun35/IdeaProjects/Assign&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
   }
 }</component>
   <component name="RecentsManager">
@@ -194,7 +180,14 @@
       <option name="project" value="LOCAL" />
       <updated>1702026155406</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="DemobellatrixHA">
+      <created>1702047680225</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1702047680225</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

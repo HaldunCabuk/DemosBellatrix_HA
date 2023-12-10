@@ -131,7 +131,7 @@ public class BaseSteps {
            element.click();
 
        }catch (Exception e){
-           System.out.println(" The Product OUT OF Stock");
+           System.out.println("Gewünschtes Produkt nicht in der Lage");
        }
 
     }

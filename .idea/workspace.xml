@@ -5,34 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1cea13cc-c654-4203-9874-470b18404888" name="Changes" comment="DemobellatrixHA">
-      <change afterPath="$PROJECT_DIR$/allure-results/0701de53-aeba-40e8-9d33-a18009209b49-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/07fd2dd1-6bc0-4734-ae93-5099f09a83ef-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/0b5704a7-0b2e-4189-a26c-ba294dd3c4d1-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/0e49332c-bc90-4db1-b958-345546a27e9e-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/1857a8ab-9fc3-4d88-b82b-88a44fff55fb-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/198a57b8-9837-4de9-931d-03adb118f5e9-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/1acbf376-0bac-448b-a2ec-ffb229bd0006-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/27eeae40-66bd-412d-bd1e-e485ab118553-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/2a133db6-56b7-4b06-b17e-1a159fbb046d-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/3ea34c04-ab3b-4408-a92a-8697877ba8d5-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/40a18026-a8d1-46f7-af96-c1068b479e30-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/44bf2c8f-3e2c-4879-b2a4-21db2ac0f7c5-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/4986dffa-24d3-40a8-b5f3-1edf6f643c1b-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/4f9836ff-affd-4312-b7c4-2a7f190ef97e-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/5914ba24-4bdc-4d99-b8f7-6977dc2516de-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/5f5d8c03-d8f8-49a6-b44e-3f86d1c6e88d-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/5fa0396e-3e73-413c-ac4e-b26cd31cf8bd-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/6e0fa091-444e-47b8-8c1a-e6c17ac83d75-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/865866ec-9e79-4509-af55-ed35d46a8b28-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/8843d0a5-cf00-4f84-9bd7-bdf9467d02d5-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/c861444e-a08f-4dae-a43a-a35f93a711e1-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/d4eef8e9-9e8c-4bbd-ad9c-654610b9fa3b-result.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/89edf27f-0769-4a22-9d4b-30049bc2c417-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/de9e58e1-21d4-4e87-9cf4-c593e80521ba-result.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/stepdefs/CartStepdefs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepdefs/CartStepdefs.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/stepdefs/Hooks.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepdefs/Hooks.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/FeatureCart.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/FeatureCart.feature" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -220,7 +196,14 @@
       <option name="project" value="LOCAL" />
       <updated>1702220656852</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="DemobellatrixHA">
+      <created>1703494327943</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1703494327943</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

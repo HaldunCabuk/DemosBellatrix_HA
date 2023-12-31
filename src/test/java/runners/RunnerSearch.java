@@ -12,5 +12,6 @@ import io.cucumber.testng.CucumberOptions;
         }
 
 )
-public class RunnerSearch extends AbstractTestNGCucumberTests{
+public class RunnerSearch extends AbstractTestNGCucumberTests {
+
 }

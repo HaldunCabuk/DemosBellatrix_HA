@@ -1,4 +1,4 @@
-Feature: Search
+Feature: DemosBellatrix
 
   Scenario Outline : Search
     Given user navigate to homepage

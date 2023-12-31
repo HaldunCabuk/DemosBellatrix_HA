@@ -136,6 +136,22 @@ public class BaseSteps {
 
     }
 
+    public WebElement getInput(String text) {
+
+        String attr = String.format(ATTRIBUTE, text);
+
+        String xpath = attr;
+
+        By locator = By.xpath(xpath);
+        return wait.until(ExpectedConditions.presenceOfElementLocated(locator));
+    }
+
+    public WebElement getElement(By locator){
+        WebElement element = wait.until(ExpectedConditions.visibilityOfElementLocated(locator));
+
+        return element;
+    }
+
 
 
     }

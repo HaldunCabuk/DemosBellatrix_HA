@@ -1,7 +1,7 @@
 Feature: Search
 
   Scenario Outline : Search
-    Given user on homepage
+    Given user navigate to homepage
     Then  homepage should be opened
     When  user search for "<searchText>"
     Then  there must be <productNumber> listed product

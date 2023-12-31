@@ -5,19 +5,17 @@ import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
 import org.openqa.selenium.Keys;
 import org.openqa.selenium.interactions.Actions;
+import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.testng.Assert;
 import static stepdefs.Locator.*;
 
 public class SearchStepdefs extends BaseSteps{
 
-    @Given("user navigate to homepage")
-    public void userNavigateToHomepage() {
-        driver.get(url);
-    }
-
 
     @Then("homepage should be opened")
     public void homepageShouldBeOpened() {
+
+        wait.until(ExpectedConditions.titleIs(title));
     }
 
 

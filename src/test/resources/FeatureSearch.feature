@@ -1,7 +1,7 @@
 Feature: DemosBellatrix
 
   Scenario Outline : Search
-    Given user navigate to homepage
+    Given user on homepage
     Then  homepage should be opened
     When  user search for "<searchText>"
     Then  there must be <productNumber> listed product

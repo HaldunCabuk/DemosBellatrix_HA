@@ -18,6 +18,9 @@ public class BaseSteps {
 
     WebDriverWait wait;
     WebDriver driver;
+    String title = "Bellatrix Demos – Bellatrix is a cross-platform," +
+            " easily customizable and extendable " +
+            ".NET test automation framework that increases tests’ reliability.";
 
 
     public BaseSteps() {

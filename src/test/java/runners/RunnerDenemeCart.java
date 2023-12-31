@@ -4,7 +4,7 @@ import io.cucumber.testng.AbstractTestNGCucumberTests;
 import io.cucumber.testng.CucumberOptions;
 
 @CucumberOptions(
-        features = {"src/test/resources/FeatureDeneme.feature"},
+        features = {"src/test/resources/FeatureDeneme.txt"},
         glue = {"stepdefs"},
         plugin = {"pretty",
                 "json:target/cucumber/cucumber.json",

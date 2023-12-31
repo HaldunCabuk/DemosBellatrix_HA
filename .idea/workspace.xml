@@ -5,8 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1cea13cc-c654-4203-9874-470b18404888" name="Changes" comment="DemobellatrixHA">
+      <change afterPath="$PROJECT_DIR$/allure-results/6089da5e-4e79-4988-aedf-d7bb3fd7ec39-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/757251b6-e50b-4b8b-9a35-eb7142dbb476-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/885892d3-eb6a-43d3-9352-f266a03fed2c-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/977abf2a-1916-45c1-830a-e3d6f9ef77a7-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/9e35531d-3ad8-4fd5-8656-3d1fb6c396fb-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/cb91bbf8-5c22-496d-945a-15b8e71c9b9f-result.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/runners/RunnerSearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/runners/RunnerSearch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/driver/Driver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/driver/Driver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/stepdefs/BaseSteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepdefs/BaseSteps.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/stepdefs/SearchStepdefs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepdefs/SearchStepdefs.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/resources/FeatureSearch.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/FeatureSearch.feature" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -60,7 +68,7 @@
       <recent name="C:\Users\Haldun35\IdeaProjects\DemosBellatrix_HA\src\test" />
     </key>
   </component>
-  <component name="RunManager" selected="Cucumber Java.Feature: FeatureCart">
+  <component name="RunManager" selected="TestNG.RunnerCart">
     <configuration name="Feature: FeatureCart" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
       <option name="CUCUMBER_CORE_VERSION" value="5" />
       <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/FeatureCart.feature" />
@@ -99,26 +107,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Scenario: Add to Cart (1)" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
-      <option name="CUCUMBER_CORE_VERSION" value="5" />
-      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/FeatureCart.feature" />
-      <option name="GLUE" value="stepdefs" />
-      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
-      <module name="DemosBellatrix_HA" />
-      <option name="NAME_FILTER" value="^Add to Cart$" />
-      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^Add to Cart$&quot;" />
-      <option name="SUGGESTED_NAME" value="Scenario: Add to Cart" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="io.cucumber.core.cli.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Scenario: Search" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
       <option name="CUCUMBER_CORE_VERSION" value="5" />
       <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/FeatureSearch.feature" />
@@ -135,6 +123,23 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RunnerCart" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="DemosBellatrix_HA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="runners.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="runners" />
+      <option name="MAIN_CLASS_NAME" value="runners.RunnerCart" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -158,11 +163,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.RunnerCart" />
+        <item itemvalue="TestNG.RunnerSearch" />
+        <item itemvalue="Cucumber Java.Scenario: Search" />
         <item itemvalue="Cucumber Java.Feature: FeatureCart" />
         <item itemvalue="Cucumber Java.Feature: FeatureSearch" />
-        <item itemvalue="TestNG.RunnerSearch" />
-        <item itemvalue="Cucumber Java.Scenario: Add to Cart (1)" />
-        <item itemvalue="Cucumber Java.Scenario: Search" />
       </list>
     </recent_temporary>
   </component>
@@ -280,7 +285,14 @@
       <option name="project" value="LOCAL" />
       <updated>1704030456311</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="DemobellatrixHA">
+      <created>1704030948476</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1704030948476</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

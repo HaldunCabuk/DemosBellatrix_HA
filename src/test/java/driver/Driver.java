@@ -8,36 +8,35 @@ import org.openqa.selenium.firefox.FirefoxDriver;
 public class Driver {
 
 
-    private static WebDriver driver = null;
+    private static ThreadLocal<WebDriver> drivers = new ThreadLocal<>();
 
     public static WebDriver getDriver(){
         return getDriver("chrome");
+
     }
 
-
-
     public static WebDriver getDriver(String browser){
-        if (driver == null)
-            switch (browser.toLowerCase().trim()){
-                case "edge":
-                    driver = new EdgeDriver();
-                    break;
+        if (drivers.get() == null){
+            switch (browser.toLowerCase()){
                 case "firefox":
-                    driver = new FirefoxDriver();
+                    drivers.set(new FirefoxDriver());
+                    break;
+                case "edge":
+                    drivers.set(new EdgeDriver());
                     break;
                 default:
-                    driver = new ChromeDriver();
+                    drivers.set(new ChromeDriver());
             }
-        return driver;
+        }
+        return drivers.get();
     }
 
 
     public static void quit(){
-        if (driver != null) {
-            driver.quit();
-            driver = null;
+
+        if (drivers.get() != null){
+            drivers.get().quit();
+            drivers.set(null);
         }
-
     }
-
 }

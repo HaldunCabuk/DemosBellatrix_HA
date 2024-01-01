@@ -3,9 +3,13 @@ package stepdefs;
 import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
 import org.openqa.selenium.Keys;
+import org.openqa.selenium.WebElement;
 import org.openqa.selenium.interactions.Actions;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.testng.Assert;
+
+import java.util.List;
+
 import static stepdefs.Locator.*;
 
 public class SearchStepdefs extends BaseSteps{
@@ -28,7 +32,8 @@ public class SearchStepdefs extends BaseSteps{
 
     @Then("there must be {int} listed product")
     public void thereMustBeProductNumberListedProduct(int productNumber) {
-        Assert.assertEquals(getElement(lProductNames).getSize(),productNumber);
+        List<WebElement> prodNums = driver.findElements(lProductNames);
+        Assert.assertEquals(prodNums.size(),productNumber);
     }
 
 

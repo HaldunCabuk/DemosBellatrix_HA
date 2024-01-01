@@ -5,18 +5,31 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1cea13cc-c654-4203-9874-470b18404888" name="Changes" comment="DemobellatrixHA">
-      <change afterPath="$PROJECT_DIR$/allure-results/3a2ab925-135e-462e-be41-f8c0a790f37c-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/3abc5fd6-a831-4524-b54b-8e13054affa6-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/55a86002-7508-4282-9c42-fb1f7927ceb5-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/67515085-9bdd-4f09-944e-d60952a080f8-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/79efb07e-a203-4026-8d00-1198de45ab85-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/9581e713-a782-41fe-b443-8266406a34a6-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/a6d3a345-05de-429f-a7a8-a6550e3ed02c-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/cff5389a-c8cc-4811-b7d3-f257c7168487-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/e037b4d3-3279-4142-8942-43b2e0e88873-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/ea35ed3f-e903-430a-9006-a109621dd6c0-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/1364d487-8887-4857-ab45-c4e4d86d8cb3-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/152de7e8-963d-4dcd-85f6-72d6b0c258ed-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/29c3e84e-fbdf-455d-af9c-489f6e380386-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/386587b6-997b-466c-8f3a-c9c8a21aec4b-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/465e2296-f3e3-407e-9391-e96fe6447379-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/4fe3c556-47b4-4518-9625-3690b525d755-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/51523490-1bb9-4f38-b660-83ba028b2c3b-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/621f7d64-36f1-48fd-ae07-98780ae2eb70-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/65784c4b-ba0b-4c48-af72-ea733b294007-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/67f49456-2b0c-4f3c-8473-b7c917a3cff4-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/88fcc10c-1701-4c34-8f82-b0f7377ff9a5-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/9024e57f-640d-4f25-ad63-2d3f5a89d877-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/9693e01c-4313-4d03-9fb9-037acb578236-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/978b0a12-17b2-4477-9508-0d83403a5001-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/c9e8cfd6-9ac5-4621-a43e-049dde25025d-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/d5551b76-f08e-4a17-8348-d4ec9283c8cc-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/db192921-2a04-4aa4-9b47-f5bdd2fe5281-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/dd532a37-2ba7-4434-8d19-281b26cf135e-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/e06fa00c-5ef3-43c1-867c-54da54264bb2-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/e7f79e65-196d-43d0-89bf-eda7b77acd36-container.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/stepdefs/Locator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepdefs/Locator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/stepdefs/SearchStepdefs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepdefs/SearchStepdefs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/FeatureSearch.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/FeatureSearch.feature" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,10 +71,12 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Haldun35/IdeaProjects/Assign&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Haldun35/IdeaProjects/DemosBellatrix_HA/src/test/resources/FeatureSearch.feature&quot;,
     &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
+    &quot;two.files.diff.last.used.file&quot;: &quot;C:/Users/Haldun35/IdeaProjects/DemosBellatrix_HA/src/test/resources/FeatureSearch.feature&quot;
   }
 }</component>
   <component name="RecentsManager">
@@ -69,15 +84,15 @@
       <recent name="C:\Users\Haldun35\IdeaProjects\DemosBellatrix_HA\src\test" />
     </key>
   </component>
-  <component name="RunManager" selected="Cucumber Java.Scenario: Add to Cart">
-    <configuration name="Feature: FeatureCart" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Cucumber Java.Scenario: Search">
+    <configuration name="Feature: FeatureSearch" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
       <option name="CUCUMBER_CORE_VERSION" value="5" />
-      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/FeatureCart.feature" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/FeatureSearch.feature" />
       <option name="GLUE" value="stepdefs" />
       <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
       <module name="DemosBellatrix_HA" />
       <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter" />
-      <option name="SUGGESTED_NAME" value="Feature: FeatureCart" />
+      <option name="SUGGESTED_NAME" value="Feature: FeatureSearch" />
       <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
       <extension name="coverage">
         <pattern>
@@ -165,11 +180,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Cucumber Java.Scenario: Add to Cart" />
         <item itemvalue="Cucumber Java.Scenario: Search" />
         <item itemvalue="TestNG.RunnerSearch" />
+        <item itemvalue="Cucumber Java.Feature: FeatureSearch" />
+        <item itemvalue="Cucumber Java.Scenario: Add to Cart" />
         <item itemvalue="TestNG.RunnerCart" />
-        <item itemvalue="Cucumber Java.Feature: FeatureCart" />
       </list>
     </recent_temporary>
   </component>
@@ -301,7 +316,14 @@
       <option name="project" value="LOCAL" />
       <updated>1704032644111</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="DemobellatrixHA">
+      <created>1704033674474</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1704033674474</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

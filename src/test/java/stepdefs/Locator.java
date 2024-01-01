@@ -2,6 +2,7 @@ package stepdefs;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;
+import org.openqa.selenium.support.FindBy;
 
 import java.util.List;
 
@@ -17,7 +18,7 @@ public interface Locator {
     By lAssertF9 = By.xpath("//a[text()='Falcon 9']");
 
     By lProductNames = By.xpath("//h2");
-    By lProduct = By.xpath("//ul[@class='products columns-4']//h2");
+
     String ATTRIBUTE = "//*[@*[.='%s']]";
 
 

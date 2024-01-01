@@ -1,6 +1,6 @@
 Feature: DemosBellatrix
 
-  Scenario Outline : Search
+  Scenario Outline: Search
     Given user on homepage
     Then  homepage should be opened
     When  user search for "<searchText>"

@@ -1,3 +1,6 @@
 "Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Tue Jan 02 11:18:22 CET 2024","Tue Jan 02 11:18:28 CET 2024","5650","","Add to Cart","","Add to Cart","","Add to Cart",""
+"passed","Tue Jan 02 11:19:29 CET 2024","Tue Jan 02 11:19:34 CET 2024","5104","","DemosBellatrix","","Search","","Search",""
 "passed","Wed Dec 13 09:15:37 CET 2023","Wed Dec 13 09:15:40 CET 2023","3545","","Add to Cart","","Add to Cart","","Add to Cart",""
-"passed","Mon Dec 25 09:40:24 CET 2023","Mon Dec 25 09:40:30 CET 2023","6032","","Add to Cart","","Add to Cart","","Add to Cart",""
+"passed","Tue Jan 02 11:19:17 CET 2024","Tue Jan 02 11:19:23 CET 2024","6532","","DemosBellatrix","","Search","","Search",""
+"passed","Tue Jan 02 11:19:23 CET 2024","Tue Jan 02 11:19:29 CET 2024","5254","","DemosBellatrix","","Search","","Search",""

@@ -1,0 +1,1 @@
+{"uuid":"3c1efc1d-1249-472f-85c9-9a44052ba065","name":"Scenario Outline: Search","children":["338a262f-3f6b-46e6-a602-4e07e60fb2e8"],"befores":[],"afters":[{"name":"stepdefs.Hooks.teardown()","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1704190763658,"stop":1704190763852}],"start":1704190757323,"stop":1704190763856}

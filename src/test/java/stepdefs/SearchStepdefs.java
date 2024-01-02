@@ -25,7 +25,7 @@ public class SearchStepdefs extends BaseSteps{
     @When("user search for {string}")
     public void userSearchFor(String searchText) throws InterruptedException {
         getInput("Search products…").sendKeys(searchText);
-        new Actions(driver).keyDown(Keys.ENTER).perform();
+        new Actions(driver).keyDown(Keys.ENTER).release().perform();
         Thread.sleep(2000);
 
     }

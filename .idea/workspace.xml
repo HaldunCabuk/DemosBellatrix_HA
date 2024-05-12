@@ -59,7 +59,7 @@
       <recent name="C:\Users\Haldun35\IdeaProjects\DemosBellatrix_HA\src\test" />
     </key>
   </component>
-  <component name="RunManager" selected="Cucumber Java.Scenario: Search">
+  <component name="RunManager" selected="Cucumber Java.Feature: FeatureSearch">
     <configuration name="Feature: FeatureSearch" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
       <option name="CUCUMBER_CORE_VERSION" value="5" />
       <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/FeatureSearch.feature" />
@@ -155,10 +155,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Cucumber Java.Feature: FeatureSearch" />
         <item itemvalue="Cucumber Java.Scenario: Search" />
         <item itemvalue="TestNG.RunnerCart" />
         <item itemvalue="TestNG.RunnerSearch" />
-        <item itemvalue="Cucumber Java.Feature: FeatureSearch" />
         <item itemvalue="Cucumber Java.Scenario: Add to Cart" />
       </list>
     </recent_temporary>
@@ -327,7 +327,15 @@
       <option name="project" value="LOCAL" />
       <updated>1714659423564</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="DemobellatrixHA">
+      <option name="closed" value="true" />
+      <created>1715429449174</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1715429449174</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

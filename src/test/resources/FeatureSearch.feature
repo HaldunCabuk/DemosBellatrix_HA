@@ -6,6 +6,7 @@ Feature: DemosBellatrix
     When  user search for "<searchText>"
     Then  there must be <productNumber> listed product
 
+
     Examples:
       | searchText | productNumber |
       | falcon     | 2             |
